@@ -1,0 +1,2 @@
+# binario
+Metodos para IEEE 
